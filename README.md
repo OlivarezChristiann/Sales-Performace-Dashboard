@@ -102,7 +102,7 @@ Through this project, I learned:
 
 ## 👤 Author
 
-**[Your Name]**
+**Christian Oliver A. Olivarez**
 Aspiring Data Analyst | Power BI | SQL | Python
 
 ---
